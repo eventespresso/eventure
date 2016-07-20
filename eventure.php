@@ -4,7 +4,7 @@
 /*
 Plugin Name: Eventure.io Event Directory
 Plugin URI: http://wordpress.org/extend/plugins/eventure/
-Description: Attract more attendees to your events by posting your events on the Eventure.io event directory for free.
+Description: Attract more attendees to your events by posting your events on the Eventure.io event directory for free. NOTE: This is an alpha version. Full integratiuon with Eventure.io coming soon.
 Author: Seth Shoultes, Event Espresso
 Version: 1.0.0.alpha
 Author URI: https://eventespresso.com/
